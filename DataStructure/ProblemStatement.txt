@@ -1,0 +1,26 @@
+** Check GeeksforGeeks website for reference.
+
+----------------
+Array
+----------------
+1. Given a list of n-1 integers and these integers are in the range of 1 to n. 
+There are no duplicates in list. One of the integers is missing in the list. 
+Write an efficient code to find the missing integer.
+
+2. Efficient Program to find smallest and second smallest element in an array.
+
+3.Majority Element
+Majority Element: A majority element in an array A[] of size n is an element that appears more than n/2 times (and hence there is at most one such element).
+
+Write a function which takes an array and emits the majority element (if it exists).
+
+4.Find the Number Occurring Odd Number of Times
+Given an array of positive integers. All numbers occur even number of times except one number which occurs odd number of times. Find the number in O(n) time & constant space.
+
+
+5.Count minimum steps to get the given desired array
+Consider an array with n elements and value of all the elements is zero. We can perform following operations on the array.
+
+Incremental operations:Choose 1 element from the array and increment its value by 1.
+Doubling operation: Double the values of all the elements of array.
+We are given desired array target[] containing n elements. Compute and return the smallest possible number of the operations needed to change the array from all zeros to desired array.
